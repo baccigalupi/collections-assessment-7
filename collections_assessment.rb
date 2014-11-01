@@ -1,3 +1,6 @@
+# Almost entirely, totally kickass. Last ] bracket should not be indented. All this is styling which is
+# for communication.
+
 array_of_student_hashes = [
   {
     first_name:       "John",
